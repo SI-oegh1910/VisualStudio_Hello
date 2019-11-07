@@ -16,6 +16,7 @@ namespace HelloWorld
             Console.WriteLine("hotfix : 2nd Hello World");
             Console.WriteLine("별이 빛나는 밤에..."); 
             Console.WriteLine("GitHub에서 수정..."); 
+            Console.WriteLine("GitHub에서 수정3..."); 
         }
     }
 }
